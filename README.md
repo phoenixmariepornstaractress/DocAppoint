@@ -1,1 +1,2 @@
 # DocAppoint
+I am excited to share that DocAppoint is now available on GitHub! We are looking for skilled C# developers who are interested in contributing to this project. If you are enthusiastic about enhancing and expanding the features of DocAppoint, your expertise would be greatly appreciated. Please consider joining us in this exciting endeavor and help shape the future of appointment management in healthcare.
